@@ -1,4 +1,4 @@
 # shaileshgorde-demo
 this is my first repository
 
-author - shailesh gorde 
+author - shailesh(my college) gorde 
